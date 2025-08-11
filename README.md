@@ -16,7 +16,7 @@ Stay on the grass as all cars' speed relentlessly climbs. The longer you hold on
 
 ### Cloning a Repository with Submodules
 ```bash
-git clone --recursive --depth=1 https://github.com/zhaohenghe/CS381
+git clone --recursive --depth=1 https://github.com/zhaohenghe/turfwars
 git submodule update --init --recursive  
 ```
 - This downloads the submodule's content into the directory.
