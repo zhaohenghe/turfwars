@@ -63,7 +63,3 @@ While inside the `build` directory, run the following command:
 ```bash
 ./turfwars
 ```  
-
-## Extra Credit
--
-- 
